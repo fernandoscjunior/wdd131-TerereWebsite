@@ -136,6 +136,8 @@ footer {
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
     margin-top: 65px;
+	position: sticky;
+    bottom: 0;
 }
 
 footer a {
